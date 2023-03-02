@@ -9,7 +9,7 @@ function Home() {
         <div className='home-page'>
             <div className='profile'>
                 <h1>Hello,</h1>
-                <h1>My name is </h1>
+                <h1>My name is Zainur Rouf</h1>
                 <p>I'am is a junior Full Stack Web Developer.</p>
             </div>
         </div>
