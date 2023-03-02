@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/repositoriWIthFramework/static/css/main.0652bf24.css",
-    "main.js": "/repositoriWIthFramework/static/js/main.3ae29d8e.js",
+    "main.js": "/repositoriWIthFramework/static/js/main.08e61e8c.js",
     "static/js/787.28cb0dcd.chunk.js": "/repositoriWIthFramework/static/js/787.28cb0dcd.chunk.js",
     "static/media/javascript.jpg": "/repositoriWIthFramework/static/media/javascript.e0df116529566f2aa356.jpg",
     "static/media/html.jpg": "/repositoriWIthFramework/static/media/html.b92129ddf88eb3c86bb0.jpg",
     "static/media/css.png": "/repositoriWIthFramework/static/media/css.6d84fb1b107a4262ad0b.png",
     "index.html": "/repositoriWIthFramework/index.html",
     "main.0652bf24.css.map": "/repositoriWIthFramework/static/css/main.0652bf24.css.map",
-    "main.3ae29d8e.js.map": "/repositoriWIthFramework/static/js/main.3ae29d8e.js.map",
+    "main.08e61e8c.js.map": "/repositoriWIthFramework/static/js/main.08e61e8c.js.map",
     "787.28cb0dcd.chunk.js.map": "/repositoriWIthFramework/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0652bf24.css",
-    "static/js/main.3ae29d8e.js"
+    "static/js/main.08e61e8c.js"
   ]
 }
